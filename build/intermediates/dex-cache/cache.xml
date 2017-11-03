@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e16d9572c9d71db4b9bcd00af555d6c7ccec8724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_4b457c46960dc912011740709ed53383ecfbab53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_c022b523f383391d99704ded9e92c05b12e89e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_9cb3889ccc19e8f4eaad903b55801c27294541cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_d990427fa6bbf2533d61601ceebb89e4490dee2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9497703de0d3f7edd91b21b5dc24d0db17d3d986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_3ccbe282ca0e167df28d04f5cc0b02d48a3e0727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\gson-2.7_3f1a7f1603eb072b3dd28ccece253fb397a7d785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_e7cdbd454d8fcaace0aeb70b916f326b5f021ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3b2c5c25752091feb7b2e021a8da77a24491509f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fd6542bdfb058c157c5e50cdcf184cfa2c4f2f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_610c0f7d27a660ab8c13b509299f2baa5ed0e02c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_ea2d41cf44b804364614704290c38d3552f09350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_21884cb040a94b2f0653de9fdfd94de2514087b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_162dccab227141df7a43556cb53efccd89810af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_c777005b6b33270b06f70f1cf6cab78ffad3e550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_03db384cf4a9ea4b2cb26b9f7da37f25ba44bc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_03ee23f03fec01dee92047c2c329504ed9e57b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_dab01a4672de85e2bc2a1ea50b02b2e4a2a24c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5ab667e70d43c66c36b37752ce53f1c11d8e3b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f6abb9b60f13c835c4d4fb3f21cf4095e94e7f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bacddc9f7fa5694e5e8badf7af151056379e950f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hikmah\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\hikmah\Downloads\gi\CryptocurrencyConvert\app\build\intermediates\pre-dexed\debug\okio-1.8.0_09c00997b86bb33aa0bac222c6a3c4eaf6f984d3.jar" />
+    </item>
+
+</items>
