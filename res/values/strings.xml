@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cryptocurrency Convert</string>
+    <string name="Activity_Convert">Conversion</string>
+    <string name="Activity_Contact">ContactUs</string>
+</resources>
